@@ -1,0 +1,258 @@
+<mxfile host="app.diagrams.net" modified="2024-03-20T12:37:56.177Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 OPR/107.0.0.0" etag="IZ-gBkxTRwG5GLu947N1" version="24.0.7" type="device">
+  <diagram name="Страница — 1" id="G8rbPwrhZbEIXFaJwkwq">
+    <mxGraphModel dx="2838" dy="3363" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jibFbIoZxmriguDROXIY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-1" target="jibFbIoZxmriguDROXIY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-1" target="jibFbIoZxmriguDROXIY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-1" value="Viewing the menu&lt;br&gt;entry/Download menu&lt;div&gt;do/View the menu&lt;/div&gt;&lt;div&gt;exit/Exit from menu&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-2" target="jibFbIoZxmriguDROXIY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-2" target="jibFbIoZxmriguDROXIY-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-2" value="Viewing the order&lt;br&gt;entry/Download the order&lt;div&gt;do/View the order&lt;/div&gt;&lt;div&gt;exit/Exit from cart&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-7" value="Checking&lt;div&gt;the cart&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="180" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-8" value="Return to menu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="188" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-9" target="jibFbIoZxmriguDROXIY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-9" target="jibFbIoZxmriguDROXIY-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.942;exitY=0.997;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-9" target="jibFbIoZxmriguDROXIY-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="671" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-9" value="Changing the order&lt;br&gt;entry/Choose dish&lt;div&gt;do/Select the quantity&lt;/div&gt;&lt;div&gt;exit/Update order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-11" value="Calculation of the order cost&lt;br&gt;entry/Get a list of dishes&lt;div&gt;do/Calculate the cost&lt;/div&gt;&lt;div&gt;exit/Update the cost&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-150" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-12" value="Removing a dish from the list&lt;br&gt;entry/Choosing a dish&lt;div&gt;do/Removing a dish&lt;/div&gt;&lt;div&gt;exit/Order update&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-150" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.121;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-11" target="jibFbIoZxmriguDROXIY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.635;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-12" target="jibFbIoZxmriguDROXIY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.479;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-9" target="jibFbIoZxmriguDROXIY-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-17" value="Updating order information" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-19" value="The order&#xa;has been&#xa;changed" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-60" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-20" value="Number&#xa;of dishes = 0" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-50" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-21" target="jibFbIoZxmriguDROXIY-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="417" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-21" value="Viewing a dish&lt;br&gt;entry/Download information about the dish&lt;div&gt;do/Display information about the dish&lt;/div&gt;&lt;div&gt;exit/Exit from the dish display page&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="163" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.521;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-21" target="jibFbIoZxmriguDROXIY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-25" value="Choosing a dish" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-26" value="Choosing a dish" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="540" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-27" value="Choosing a dish" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="275" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.845;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-2" target="jibFbIoZxmriguDROXIY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-30" value="Return to the shopping cart" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="298" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-31" target="jibFbIoZxmriguDROXIY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-31" value="Cancellation of the order&lt;br&gt;entry/Request confirmation of cancellation&lt;div&gt;do/Get the user&#39;s response&lt;/div&gt;&lt;div&gt;exit/Close the notification&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="390" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-33" value="Return to the shopping cart" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="225" y="400" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-34" target="jibFbIoZxmriguDROXIY-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="920" y="240" />
+              <mxPoint x="920" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-34" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="-150" width="510" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-35" value="Waiting for customer data entry&lt;br&gt;entry/Requesting customer data&lt;div&gt;do/Data entry by the client&lt;/div&gt;&lt;div&gt;exit/Remember customer data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-60" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-35" target="jibFbIoZxmriguDROXIY-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-37" value="Incorrect data has been entered" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="827" y="-110" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-38" value="Making an order" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-39" value="exit/Change the order status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="881" y="200" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-40" target="jibFbIoZxmriguDROXIY-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-40" value="Waiting for payment data entry&lt;br&gt;entry/Request for payment data&lt;div&gt;do/Entering payment data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="-60" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-40" target="jibFbIoZxmriguDROXIY-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-46" value="Incorrect data has been entered" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1051" y="-110" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-48" target="jibFbIoZxmriguDROXIY-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-48" target="jibFbIoZxmriguDROXIY-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-48" value="Waiting for payment&lt;div&gt;entry/Send a request to the bank&lt;div&gt;do/Get the bank&#39;s response&lt;/div&gt;&lt;div&gt;exit/Send a receipt to a customer&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="80" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-51" value="Payment" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="980" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-52" value="The operation&#xa;was rejected" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="30" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-53" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-55" value="Payment&#xa;completion" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="160" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-57" value="Place an order" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="600" y="320" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-59" value="Request to&#xa;cancel an&#xa;order" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="925" y="280" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-62" value="Возврат к&lt;br&gt;оформлению&lt;br&gt;заказа" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-63" target="jibFbIoZxmriguDROXIY-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-20" y="590" />
+              <mxPoint x="-20" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-63" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="520" width="1220" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-66" target="jibFbIoZxmriguDROXIY-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-66" target="jibFbIoZxmriguDROXIY-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-66" value="Customer&#39;s waiting for an order&lt;br&gt;entry/Get an order confirmation&amp;nbsp;&lt;div&gt;do/Tracking the order&lt;/div&gt;&lt;div&gt;exit/Receive a&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;notification&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="560" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-31" target="jibFbIoZxmriguDROXIY-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-71" value="Request to cancel an order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-72" value="Order fulfillment" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-73" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="585" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-74" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="270" y="700" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-75" target="jibFbIoZxmriguDROXIY-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-75" value="Handing over the order to the waiter&lt;br&gt;entry/Appoint a waiter&amp;nbsp;&lt;div&gt;do/Send the order information to the waiter&lt;/div&gt;&lt;div&gt;exit/Change the order status&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="675" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-77" target="jibFbIoZxmriguDROXIY-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-77" value="Transfer of the order to the kitchen&lt;br&gt;entry/Get payment confirmation&lt;div&gt;do/Send information about the order to the kitchen&lt;/div&gt;&lt;div&gt;exit/Change the order status&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="675" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-78" target="jibFbIoZxmriguDROXIY-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-78" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="585" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-80" target="jibFbIoZxmriguDROXIY-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-80" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="700" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jibFbIoZxmriguDROXIY-5" target="jibFbIoZxmriguDROXIY-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-86" value="Repeat order" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jibFbIoZxmriguDROXIY-88" value="entry/Start order fulfillment&lt;div&gt;do/To fulfill an order&lt;br&gt;&lt;/div&gt;&lt;div&gt;exit/Complete the order&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="625" width="150" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
